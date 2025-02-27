@@ -1,8 +1,3 @@
-// Made by Serhij Čepil
-// FIT VUT Student
-// https://github.com/sipxi
-// Day of completion 09/18/2024
-// Time spent: 19h+
 
 #include <stdbool.h>
 #include <stdio.h>
